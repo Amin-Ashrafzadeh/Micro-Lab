@@ -1,2 +1,2 @@
 # Micro-Lab
-AVR Microcontrollers Programming Exercises and Assignments, Written in CodeVision Compiler
+AVR Micro controllers Programming Exercises and Assignments, Written in CodeVision Compiler
